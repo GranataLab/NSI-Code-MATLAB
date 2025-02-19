@@ -1,5 +1,6 @@
 # NSI-Code
-Adapted from: Queen R, Dickerson L, Ranganathan S, Schmitt D. A novel method for measuring asymmetry in kinematic and kinetic variables: The normalized symmetry index. J Biomech. 2020;99:109531. doi:10.1016/j.jbiomech.2019.109531
+Created using equations described in:
+Queen R, Dickerson L, Ranganathan S, Schmitt D. A novel method for measuring asymmetry in kinematic and kinetic variables: The normalized symmetry index. J Biomech. 2020;99:109531. doi:10.1016/j.jbiomech.2019.109531
 
 This MATLAB code calculates the Normalized Symmetry Index (NSI) with an example layout, which can be changed for individual needs.
 
